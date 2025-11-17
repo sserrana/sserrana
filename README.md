@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Serrana 🖤</h1>
 
-<!--
-**sserrana/sserrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineering student focused on software development, systems design,  
+  and core computer science fundamentals.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ── Tech Stack ──
+
+**Frontend**  
+React · Next.js · Tailwind CSS  
+JavaScript · TypeScript  
+HTML · CSS · Sass
+
+**Backend**  
+Python · Java · SQL
+
+**Other**  
+Git · Figma  
+Design Patterns · OOP
+
+---
+
+## ── Current Studies ──
+**Software Engineering Degree – Universidad de la República**  
+Focused on software development, systems analysis, and engineering methodologies.
+
+---
+
+## ── About Me ──
+I enjoy working with clean architectures, strong fundamentals, and precise logic.  
+I'm drawn to algorithms, computer science concepts, and understanding systems from the inside out.  
+Always learning, analyzing, and building with a technical and minimalist mindset.
+
+---
