@@ -1,29 +1,29 @@
-<h1 align="center">Serrana 🖤</h1>
+<h1 align="center">serrana 🖤</h1>
 
 <p align="center">
-  Software Engineering student focused on software development, systems design,  
+  software engineering student focused on software development, systems design,  
   and core computer science fundamentals.
 </p>
 
-## ── Tech Stack ──
+## ── tech stack ──
 
-**Frontend**  
-React · Next.js · Tailwind CSS  
-JavaScript · TypeScript  
-HTML · CSS · Sass
+**frontend**  
+react · next.js · tailwind css  
+javascript · typescript  
+html · css · sass
 
-**Backend**  
-Python · Java · SQL
+**backend**  
+python · java · sql
 
-**Other**  
-Git · Figma  
-Design Patterns · OOP
+**other**  
+git · figma  
+design patterns · oop
 
-## ── Current Studies ──
-**Software Engineering Degree – Universidad de la República**  
-Focused on software development, systems analysis, and engineering methodologies.
+## ── current studies ──
+**software engineering degree – universidad de la república**  
+focused on software development, systems analysis, and engineering methodologies.
 
-## ── About Me ──
-I enjoy working with clean architectures, strong fundamentals, and precise logic.  
-I'm drawn to algorithms, computer science concepts, and understanding systems from the inside out.  
-Always learning, analyzing, and building with a technical and minimalist mindset.
+## ── about me ──
+i enjoy working with clean architectures, strong fundamentals, and precise logic.  
+i'm drawn to algorithms, computer science concepts, and understanding systems from the inside out.  
+always learning, analyzing, and building with a technical and minimalist mindset.
