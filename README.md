@@ -1,4 +1,4 @@
-<h1 align="center">serrana 🖤</h1>
+<h1 align="center">serrana </h1>
 
 <p align="center">
   software engineering student focused on software development, systems design,  
